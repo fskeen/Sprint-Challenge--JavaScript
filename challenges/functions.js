@@ -17,15 +17,15 @@ function consume (a, b, cb){
   * Create a function named greeting that accepts a first and last name and returns "Hello first-name last-name, nice to meet you!"
 */
 function add (a, b) {
-  return console.log(`${a} + ${b} =`, a + b);
+  return console.log(`Callback add() test: ${a} + ${b} =`, a + b);
 }
 
 function multiply (a, b) {
-  return console.log(`${a} * ${b} =`, a * b);
+  return console.log(`Callback multiply() test: ${a} * ${b} =`, a * b);
 }
 
 function greeting (a, b) {
-  return console.log(`Hello ${a} ${b}, nice to meet you!`);
+  return console.log(`Callback greeting() test: "Hello ${a} ${b}, nice to meet you!"`);
 }
 
 
