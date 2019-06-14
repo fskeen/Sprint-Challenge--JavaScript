@@ -46,7 +46,7 @@ consume("Mary","Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 
 // Explain in your own words why `nestedfunction()` can access the variable `internal`.
 
-// Explanation: 
+// Explanation: This is an example of how closure works with scope. Nested inner functions can access the local variables of their outer parent functions and use those variables in their own scope. This only works one way -- the outer functions can't access local variables of their child functions.
 
 
 const external = "I'm outside the function";
