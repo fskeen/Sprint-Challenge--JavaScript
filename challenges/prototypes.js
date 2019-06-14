@@ -52,6 +52,6 @@ console.log(`
 `)
 
 console.log("Cuboid volume: ", cubey1.volume()); // 100
-console.log("Cuboid volume: ", cubey1.surfaceArea()); // 130
+console.log("Cuboid surface area: ", cubey1.surfaceArea()); // 130
 
 

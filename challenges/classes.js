@@ -66,5 +66,3 @@ console.log("Cuboid surface area: ", cuboid1.surfaceArea()); // 130
 
 console.log("Cube volume: ",cube1.volume()); // 8
 console.log("Cube surface area: ", cube1.cubeSurfaceArea()); // 24
-  
-  
