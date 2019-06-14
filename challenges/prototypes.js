@@ -45,6 +45,12 @@ const cubey1 = new CuboidMaker({
 });
 
 // Test your volume and surfaceArea methods by uncommenting the logs below:
+
+console.log(`
+
+---- PROTOTYPES TESTS ----
+`)
+
 console.log(cubey1.volume()); // 100
 console.log(cubey1.surfaceArea()); // 130
 
